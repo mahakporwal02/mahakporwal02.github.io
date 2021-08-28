@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2019-08'
+title: 'Organising Committee'
+company: 'Youth Speak Forum'
+location: 'Shirpur, India'
+range: 'August - November 2019'
+url: 'https://www.aiesec.in/contact/nmims/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Organised and Managed YSF.
+- YouthSpeak Forum powered by AIESEC is an event that empowers young people to understand how they can contribute to the SDGs through short and powerful talks and sparks interest in self-development through skills-building workshops.

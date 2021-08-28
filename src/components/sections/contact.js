@@ -56,14 +56,18 @@ const Contact = () => {
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
       <h2 className="numbered-heading overline">What’s Next?</h2>
-
       <h2 className="title">Get In Touch</h2>
-
       <p>
-        Although I'm not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I'll try my best to get back to you!
+        I am currently looking for part-time/full time paid internship opportunities. Also I am
+        always looking for meaningful ways to support underprivileged communities, in tech or
+        otherwise. I can listen, observe, share, talk, understand, and do. Reach out for anything
+        and everything, and I shall do my bit.
       </p>
-
+      <p>
+        Apart from that, my inbox is open to doubts or advice in tech, music, quality dank memes or
+        even a simple 'hi'!
+      </p>
+      Drop a mail and I'll reply within a day or two.
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>

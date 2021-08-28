@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Flask', 'Vue', 'MySQL', 'MongoDB', 'C | C++', 'GIT'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,21 +136,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello My name is Mahak and I was born and brought up in the Indore. I have graduated
+              my high school from New Digamber Public School, Indore in 2019. I am pursuing MBA-Tech
+              - integerated course in Btech and MBA in Computer Science and Finance respectively
+              from NMIMS (MPSTME) [2019-2024].
+            </p>
+            <p>
+              I am an undergrad with holistic knowledge of full stack web development and a knack
+              for competitive programming who love doing open source projects. I am currently summer
+              intern in Kiwix under
+              <b> GSoC'21</b> and <b>Technical Head</b> at Narsee Monjee Model United Nations.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I've had the privilege of working for <a href="https://www.kiwix.org/en/">Kiwix</a>,{' '}
+              <a href="http://nmmun.in/">NMMUN</a>,{' '}
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

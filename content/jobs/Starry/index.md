@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2020-05-14'
+title: 'Open Source Developer'
+company: 'Kiwix'
+location: Indore, India'
+range: 'May 2020 - Feb 2021'
+url: 'https://www.kiwix.org/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Worked on two open source projects Zimfarm and WP1.
+- Top contributor in zimfarm with 30+ solved issues.
+- Top contributor in WP1 with 15+ solved issues. My contributions - <a href="https://github.com/openzim/zimfarm/graphs/contributors"><b> Click</b></a>
+- Currently developing Wikipedia article assessment solution called WP1 selections. This soltutions allow users to make selections based on WP1 assessments
