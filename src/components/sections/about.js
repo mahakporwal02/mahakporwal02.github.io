@@ -136,21 +136,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello My name is Mahak and I was born and brought up in the Indore. I have graduated
-              my high school from New Digamber Public School, Indore in 2019. I am pursuing MBA-Tech
-              - integerated course in Btech and MBA in Computer Science and Finance respectively
-              from NMIMS (MPSTME) [2019-2024].
+              Hello My name is Mahak and I was born and brought up in Indore. I have graduated my
+              high school from Indore in 2019. I am pursuing BTech + MBA - an integerated course in
+              Computer Science and Finance respectively from{' '}
+              <a href="https://nmims.edu/shirpurcampus">NMIMS (MPSTME)</a> [2019-2024].
             </p>
             <p>
               I am an undergrad with holistic knowledge of full stack web development and a knack
-              for competitive programming who love doing open source projects. I am currently summer
-              intern in Kiwix under
-              <b> GSoC'21</b> and <b>Technical Head</b> at Narsee Monjee Model United Nations.
+              for competitive programming who loves doing open source projects. I am currently
+              summer intern in Kiwix under
+              <b> Google Summer of Code'21</b>, <b>Technical Head</b> at Narsee Monjee Model United
+              Nations and <b>Women Representative</b> at <b>Computer Society of India</b>
             </p>
 
             <p>
               I've had the privilege of working for <a href="https://www.kiwix.org/en/">Kiwix</a>,{' '}
-              <a href="http://nmmun.in/">NMMUN</a>,{' '}
+              <a href="http://nmmun.in/">NMMUN</a> and{' '}
+              <a href="http://csi-india.org.in/">Computer Society of India</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

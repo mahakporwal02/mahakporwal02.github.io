@@ -68,9 +68,11 @@ const Contact = () => {
         even a simple 'hi'!
       </p>
       Drop a mail and I'll reply within a day or two.
-      <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
-      </a>
+      <div>
+        <a className="email-link" href={`mailto:${email}`}>
+          Say Hello
+        </a>
+      </div>
     </StyledContactSection>
   );
 };

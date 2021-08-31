@@ -1,13 +1,13 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2020-11-1'
+title: 'Zimfarm'
+github: 'https://github.com/openzim/zimfarm'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
-showInProjects: false
+  - Vue.js
+  - Flask
+  - MongoDB
+showInProjects: true
+company: 'Kiwix'
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+The ZIM farm (zimfarm) is a semi-decentralised software solution to build ZIM files efficiently. This means scrapping Web content, packaging them into a ZIM file and uploading the result to an online ZIM files repository.

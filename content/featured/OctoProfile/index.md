@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'NMMUN-21'
+cover: './NMMUN.png'
+github: 'https://github.com/mahakporwal02/NMMUN-21'
+# external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Vue.js
+  - SheetIO
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Website for Narsee Monjee Model United Nations visited by delegates across India to get latest updates about the event, register for the event and find information about the event.

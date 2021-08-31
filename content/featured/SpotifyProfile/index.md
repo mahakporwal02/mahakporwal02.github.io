@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'WP1'
+cover: './WP1.png'
+github: 'https://github.com/openzim/wp1'
+# external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Vue.js
+  - Flask
+  - MYSQL
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Wikipedia article assessment solution called WP1. This solution is currently been extended to
+allow users to make selections based on the WP1 assessments and other key values- to make selections such as Wikimed, the medical encyclopedia.

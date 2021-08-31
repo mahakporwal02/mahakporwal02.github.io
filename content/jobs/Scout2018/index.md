@@ -7,6 +7,6 @@ range: 'May 5 - Present'
 url: 'http://nmmun.in/'
 ---
 
-- Organising and managing the technical committee.
-- Developing its website.
-- Mentor to newbies in tec
+- Organising and managing the technical committee of Narsee Monjee Model United Nations.
+- Developing its website so that delegates can find information, register and pay for the event, and find latest updates about it.
+- Mentor to students new to the technical world.

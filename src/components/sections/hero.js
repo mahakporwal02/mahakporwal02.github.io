@@ -64,12 +64,8 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer keen to design, build, solve, and democratize technology for the next
-      billion internet users one commit at a time. Currently building Wikipedia article assessment
-      solution called WP1 selections{' '}
-      <a href="https://www.kiwix.org/" target="_blank" rel="noreferrer">
-        Kiwix
-      </a>
-      .
+      billion internet users one commit at a time. Currently building an application for tracking
+      stock rates .
     </p>
   );
   const five = (

@@ -1,15 +1,13 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2020-08-12'
+title: 'Image-Uploader'
+github: 'https://github.com/mahakporwal02/Image-Uploader'
 tech:
-  - Node
-  - Express
-  - Firebase
   - Vue
+  - Javascript
+  - HTML
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Sign in using oauth of Imgur API. Upload images from local machine to imgur. View uploaded images in your imgur account.
