@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a software engineer keen to design, build, solve, and democratize technology for the next
-      billion internet users one commit at a time. Currently building an application for tracking
-      stock rates .
+      I am a Computer Science student with holistic knowledge of full stack web development and a
+      knack for competitive programming. I am currently summer intern in Kiwix under GSoC'21,
+      Technical Head at Narsee Monjee Model United Nations and Women Representative at CSI.
     </p>
   );
   const five = (
